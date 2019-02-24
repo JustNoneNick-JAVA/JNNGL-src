@@ -19,7 +19,6 @@ public class Physics {
 	
 	public void tick() {
 		collision.setCollision(obj1.getBounds(), obj2.getBounds());
-		System.out.println("tick");
 		if(collision.getResult() == false && speedY <= 10) {
 			speedY += 1;
 			obj1.setY(obj1.y += 1);
