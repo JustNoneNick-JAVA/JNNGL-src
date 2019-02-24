@@ -14,7 +14,7 @@ import com.jnngl.library.util.vectors.Vector1k;
 import com.jnngl.library.util.vectors.Vector2i;
 import com.jnngl.library.util.vectors.Vector3f;
 
-public final class Nnlp {
+public final class JNNGL {
 	
 	public static final WavPlayer audio = new WavPlayer();
 	public static final KeysController keys = new KeysController();
