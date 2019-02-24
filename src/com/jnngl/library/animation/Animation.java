@@ -3,11 +3,6 @@ package com.jnngl.library.animation;
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;
 
-/**
- * 
- * <h5>note:</h5> This class author: RealTutsGml
- *
- */
 public class Animation {
 
 	private int speed;
